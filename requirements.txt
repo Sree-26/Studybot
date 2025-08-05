@@ -1,0 +1,9 @@
+streamlit
+openai
+langchain
+python-dotenv
+pymupdf
+python-pptx
+networkx
+matplotlib
+faiss-cpu
